@@ -1,0 +1,10 @@
+C:\Users\Tester\source\repos\okFPtest\okFPtest\bin\Debug\okFPtest.exe.config
+C:\Users\Tester\source\repos\okFPtest\okFPtest\bin\Debug\okFPtest.exe
+C:\Users\Tester\source\repos\okFPtest\okFPtest\bin\Debug\okFPtest.pdb
+C:\Users\Tester\source\repos\okFPtest\okFPtest\bin\Debug\libFrontPanel-csharp.dll
+C:\Users\Tester\source\repos\okFPtest\okFPtest\obj\Debug\okFPtest.csproj.AssemblyReference.cache
+C:\Users\Tester\source\repos\okFPtest\okFPtest\obj\Debug\okFPtest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tester\source\repos\okFPtest\okFPtest\obj\Debug\okFPtest.csproj.CoreCompileInputs.cache
+C:\Users\Tester\source\repos\okFPtest\okFPtest\obj\Debug\okFPtest.csproj.CopyComplete
+C:\Users\Tester\source\repos\okFPtest\okFPtest\obj\Debug\okFPtest.exe
+C:\Users\Tester\source\repos\okFPtest\okFPtest\obj\Debug\okFPtest.pdb
